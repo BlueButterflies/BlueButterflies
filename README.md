@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siyana (BlueButterflies)
 - 👀 I’m interested in C# 
-- 🌱 I’m currently learning Xamarin and Js
-- 💞️ I’m looking to collaborate on project in C#, Xamarin  or Js
+- 🌱 I’m currently learning Xamarin,Js and Unity
+- 💞️ I’m looking to collaborate on project in C#, Xamarin, Unity or Js
 - 📫 How to reach me dvsk23020818@outlook.it or skype: Siyana BlueButterflies
 
 <!---
