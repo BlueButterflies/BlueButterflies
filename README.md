@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siyana (Butterfly Tech Creative Solution)
-- 🔭 I’m currently working on Apps in Italian for my daughter's elementary school - "<a href="https://github.com/BlueButterflies/ItalyGame/tree/master">Italy Game</a>" for Windows
+- 🔭 I’m currently finished  Apps in Italian for my daughter's elementary school - "<a href="https://github.com/BlueButterflies/ItalyGame/tree/master">Italy Game</a>" for Windows
 - 👀 I’m interested in C#, Xamarin, Unity, JS
 - 🌱 I’m currently learning Xamarin,Js and Unity
 - 👯 I’m looking to collaborate on any awesome coding projects!
