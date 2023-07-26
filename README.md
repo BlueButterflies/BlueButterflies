@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siyana (Butterfly Tech Creative Solution)
-- 🔭 I’m currently I work on a web <a href="https://bluebutterflies.github.io/Project/](https://bluebutterflies.github.io/LearnWithMe/)">Lear with me</a>
+- 🔭 I’m currently I work on a web <a href="https://bluebutterflies.github.io/LearnWithMe/">Lear with me</a>
 - 👀 I’m interested in C#, Unity, JS and Web Design
 - 👯 I’m looking to collaborate on any awesome coding projects!
 - 📫 How to reach me in my website <a href="https://bluebutterflies.github.io/ButterflyTech/" target="_blank">Butterfly Tech Creative Solution</a>
