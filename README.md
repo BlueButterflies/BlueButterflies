@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siyana (Butterfly Tech Creative Solution)
+- 👋 Hi, I’m Siyana 
 - 🔭 I’m currently I work on a web 
 - 👀 I’m interested in C#, Unity, JS and Web Design
 - 👯 I’m looking to collaborate on any awesome coding projects!
