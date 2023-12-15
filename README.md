@@ -2,7 +2,7 @@
 - 🔭 I’m currently I work on a web 
 - 👀 I’m interested in C#, Unity, JS and Web Design
 - 👯 I’m looking to collaborate on any awesome coding projects!
-- 📫 How to reach me in my website <a href="https://bluebutterflies.github.io/portfolio/" target="_blank">Butterfly Tech Creative Solution</a>
+- 📫 How to reach me in my website <a href="https://bluebutterflies.github.io/portfolio/" target="_blank">S/Z Siyana Zdravkova Developer</a>
 - ⚡️ Fun fact about me: I love read, search and study every interesting information I come across.
 
 <!---
