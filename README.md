@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siyana 
-- 🔭 I’m currently I work on a as a volunteer in the translation of <a href="freeCodeCamp.org" target="_blank">freeCodeCamp.org</a> files into Bulgarian
+- 🔭 I’m currently I work on a as a volunteer in the translation of <a href="https://www.freecodecamp.org/" target="_blank">freecodecamp.org/</a> files into Bulgarian
 - 🌐 I recently finished translating Github's <a href="https://opensource.guide" target="_blank">opensource.guide</a> site into <a href="https://opensource.guide/bg/" target="_blank">Bulgarian</a> and
 <a href="https://opensource.guide/it/" target="_blank">Italian</a>
 - 👀 I’m interested in C#, Unity, JS, Web Design and Open Source Projects
