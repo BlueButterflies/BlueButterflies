@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siyana 
-- 🔭 I work on my open source project <a href="https://github.com/BlueButterflies/learnlanguagesforkids" target="_blank">learnlanguagesforkids</a>
+- 🔭 I work on my project <a href="https://github.com/BlueButterflies/learnlanguagesforkids" target="_blank">learnlanguagesforkids</a>
 - 🌐 I helped translate the Github site <a href="https://opensource.guide" target="_blank">opensource.guide</a> into <a href="https://opensource.guide/bg/" target="_blank">Bulgarian</a> and
 <a href="https://opensource.guide/it/" target="_blank">Italian</a>
 - 👀 I’m interested in C#, Unity, JS, React, Node.js, Web Design and Open Source Projects
